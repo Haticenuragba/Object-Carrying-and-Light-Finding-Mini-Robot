@@ -3,4 +3,7 @@
 <br>
 Demonstration
 </h1>
-[![image](https://img.youtube.com/vi/https://youtu.be/znoUwGhzwIM/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/znoUwGhzwIM)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=znoUwGhzwIM"><img src="https://img.youtube.com/vi/znoUwGhzwIM/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
