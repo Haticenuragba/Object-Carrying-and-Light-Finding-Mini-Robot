@@ -1,6 +1,8 @@
 # Object-Carrying-and-Light-Finding-Mini-Robot
-<h1>A mini lego mindstrom robot that finds objects on area and carry them to light as close as possible.
+<p>A mini lego mindstrom robot that finds objects on area and carry them to light as close as possible.</p>
 <br>
+  
+  <h1>
 Demonstration
 </h1>
 <div align="center">
